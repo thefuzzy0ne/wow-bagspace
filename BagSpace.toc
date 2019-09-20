@@ -1,7 +1,7 @@
 ## Interface: 11302
 ## Globe: check-classic
 ## Title: Bag Space
-## Notes: Gives you back number of empty slots remaining in your bags, just like non-classic WoW. Nothing else.
+## Notes: Displays the number of empty bag slots on your backpack icon, just like WoW Retail.
 ## Author: Jrhartley
 ## Version: 1.0.0
 ## DefaultState: Enabled
